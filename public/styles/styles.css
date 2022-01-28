@@ -73,26 +73,26 @@
 }
 
 .btn:hover {
-    background: #f0f1f3;
+  background: #f0f1f3;
   box-shadow: #010101 0px 25px 20px -20px;
 }
 
 .img-home {
-    width: 20%;
-    height: 20%;
-    transition: all 0.5s;
-    opacity: 0.9;
-    border-radius: 0.6rem;
+  width: 20%;
+  height: 20%;
+  transition: all 0.5s;
+  opacity: 0.9;
+  border-radius: 0.6rem;
 }
 
 .img-home:hover {
-    opacity: 1;
-    filter: brightness(1.05);
+  opacity: 1;
+  filter: brightness(1.05);
 }
 
 footer {
   position: fixed;
-  bottom:0;
+  bottom: 0;
   width: 100%;
   text-align: center;
 }
@@ -102,13 +102,12 @@ footer {
 }
 
 .footer p {
-    font-size: 80%;
+  font-size: 80%;
 }
 
 .footer a {
-    color: #000;
+  color: #000;
 }
-
 
 .social-icons img {
   height: 20px;
