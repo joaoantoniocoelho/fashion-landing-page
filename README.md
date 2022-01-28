@@ -1,0 +1,15 @@
+# Fashion Landing Page
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+
+> Landing page for fashions brands.
+>
+> Non responsive.
+>
+> Learning purposes.
+
+> Photo by <a href="https://unsplash.com/@samburriss?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sam Burriss</a> on <a href="https://unsplash.com/s/photos/black-and-white-fashion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+## Screenshot
+<img src="public/screenshot/example.png" alt="app screenshot"/>
